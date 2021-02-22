@@ -1,3 +1,4 @@
+#https://opentdb.com/api.php?amount=10&type=boolean
 question_data = [
 
     {"category": "Entertainment: Japanese Anime & Manga", "type": "boolean", "difficulty": "easy",
@@ -30,3 +31,4 @@ question_data = [
      "question": "The protagonist in &quot;Humanity Has Declined&quot; has no discernable name and is simply referred to as &#039;I&#039; for most of the series.",
      "correct_answer": "True", "incorrect_answers": ["False"]}
 ]
+
